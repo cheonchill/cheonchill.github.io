@@ -47,11 +47,12 @@ body.cv-layout #main.cv-main {
 }
 
 .cv-photo {
-  width: 132px;
-  height: 132px;
-  flex: 0 0 132px;
-  border-radius: 50%;
+  width: 108px;
+  height: 130px;
+  flex: 0 0 108px;
+  border-radius: 4px;
   object-fit: cover;
+  object-position: center top;
 }
 
 .cv-header-content {
@@ -142,9 +143,9 @@ body.cv-layout #main.cv-main {
   }
 
   .cv-photo {
-    width: 88px;
-    height: 88px;
-    flex-basis: 88px;
+    width: 82px;
+    height: 100px;
+    flex-basis: 82px;
   }
 
   .cv-header h1 {
@@ -200,9 +201,9 @@ body.cv-layout #main.cv-main {
   }
 
   .cv-photo {
-    width: 100px;
-    height: 100px;
-    flex-basis: 100px;
+    width: 90px;
+    height: 108px;
+    flex-basis: 90px;
   }
 
   .cv-section {
