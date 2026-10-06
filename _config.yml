@@ -24,9 +24,9 @@ repository               : "cheonchill/cheonchill.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "유현승 (Yu Hyeonseung)"
+  name             : "Yu Hyeonseung"
   pronouns         : # example: "she/her"  
-  bio              : "4th-year undergraduate in Control and Robotics Engineering. Research interests: AI and Humanoid Robotics."
+  bio              : "Undergraduate researcher in humanoid robotics, reinforcement learning, and robot learning."
   location         : "Jeonju, Republic of Korea"
   employer         : "Jeonbuk National University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    :
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            :
+  orcid            : "https://orcid.org/0009-0005-5210-4260"
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
